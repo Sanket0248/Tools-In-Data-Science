@@ -1,0 +1,7 @@
+{
+  "prompt": "<your verbatim final prompt>",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://www.unesco.org/en/articles/atlas-worlds-languages-danger",
+  "insight": "Of the ~7,000 languages spoken today, half are endangered and one disappears every two weeks, erasing irreplaceable ways of knowing the world."
+}
